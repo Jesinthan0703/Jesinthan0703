@@ -1,4 +1,5 @@
-MIDWAY DEVELOPER | VPO - LICET PATTARAI 👋
+<h1>JESINTHAN</h1>
+<h4>MIDWAY DEVELOPER</h4> 👋
 
 <!--
 **Jesinthan0703/Jesinthan0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
